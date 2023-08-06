@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "A model trained using CreateML to classify crowd sizes",
+  "MLModelAuthorKey" : "Dimitri Roche",
+  "MLModelLicenseKey" : "Unspecified"
+}
